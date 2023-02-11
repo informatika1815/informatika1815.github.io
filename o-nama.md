@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[Pocetna](./index)| [O nama](#) | [Reference](./reference.md)
+[Pocetna](./index) | [O nama](#) | [Reference](./reference.md)
